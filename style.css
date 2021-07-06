@@ -61,6 +61,7 @@ section{
 }
 .second{
     display: flex;
+    margin: 0;
     margin-bottom: 100px;
     padding-top: -5px;
     background-image: url(images/shapes/Frame\ 59.jpg);
@@ -83,22 +84,23 @@ section{
     text-decoration: none;
     font-weight: 700;
 }
-.third{
-    display: flex;
-    margin:0%;
-    margin-top: -2%;
-}
+
+
  
 .fs{
 font-size: 35px;
 }
 .third{
     display: flex;
+    margin: 0%;
     margin-bottom: 100px;
-    padding-top: -5px;
+    padding-top: 2px;
     background-image: url(images/shapes/Group\ 8446.png);
     background-repeat: no-repeat;
     margin-top: 10px;
+    background-position: right;
+
+
 }
 
 
