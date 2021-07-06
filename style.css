@@ -6,6 +6,9 @@ margin: 0;
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 30px;
+}
 .main-head{
     color: rgb(252, 175, 82);
 }
@@ -99,10 +102,62 @@ font-size: 35px;
     background-repeat: no-repeat;
     margin-top: 10px;
     background-position: right;
-
+}
+.title{
+    text-align: center;
+   
+}
+.mahathir{
+    border: black solid 2px;
+}
+.head{color: tomato;
 
 }
+.hand{
+color: crimson;
+}
+.nose{
+color: blue;
+}
+.galib{
+    display: flex;
+    margin-bottom: 150px;
+}
+.area{
+    box-shadow: 10px 10px 50px black;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
 
-
-
-
+}
+.img3{
+    width: 80%;
+    
+   margin-left:6% ;
+   margin-right: 5%;
+   margin-top:10% ;
+   
+   border-radius: 30px 30px 30px 30px;
+}
+.zx{
+   display: flex;
+  margin: 0;
+ 
+}
+.rb{
+    
+    padding: 45%;
+}
+.mg{
+width:60%;
+    color: white;
+    background-color: black;
+    padding-left: 30%;
+    margin-left:5% ;
+    text-align: center;
+}
+.gm{
+    color: gold;
+}
