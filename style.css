@@ -1,0 +1,39 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.main-head{
+    color: rgb(252, 175, 82);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    padding-top: 5%;
+}
+.link-button{
+    color: black;
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-image:linear-gradient(black,rgb(223, 209, 15),white,rgb(180, 228, 9),black);
+    font-weight: 700;
+}
+.top-back{
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+
+
+
