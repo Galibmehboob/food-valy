@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -32,8 +33,48 @@ section{
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
     margin: 0;
+}
+
+
+    
+.half-width2{
+    width:40%;
+    image-resolution: 100%;
+    padding-left: 30%;
+    
 
 }
+.second{
+    display: flex;
+    margin-bottom: 100px;
+    padding-top: -5px;
+}
+.blue{
+   color: limegreen;
+}
+
+.instruction{
+    color: mediumblue;
+}
+.orange{
+    color: orangered;
+}
+
+.link-button2{
+    color: purple;
+    text-decoration: none;
+    font-weight: 700;
+}
+.third{
+    display: flex;
+    margin:0%;
+    margin-top: -2%;
+}
+ 
+.fs{
+font-size: 35px;
+}
+
 
 
 
